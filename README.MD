@@ -2,7 +2,8 @@
 
 ## Overview
 
-Build with Nodejs , Socket.io and Dom manipulation with Vanilla js .<br
+Build with Nodejs , Socket.io and Dom manipulation with Vanilla js .<br>
+Take alook at demo file.<br>
 
 ## Featues
 
